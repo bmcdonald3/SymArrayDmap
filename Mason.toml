@@ -1,0 +1,8 @@
+[brick]
+name="SymArrayDmap"
+version="0.1.0"
+chplVersion="1.27.0"
+license="None"
+
+[dependencies]
+
